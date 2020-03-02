@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Bell:1995An}
+A.~J. Bell and T.~J. Sejnowski.
+\newblock {An information-maximization approach to blind separation and blind
+  deconvolution.}
+\newblock {\em Neural Computation}, 7(6):1129--1159, 1995.
+
+\bibitem{Chen:2018Re}
+S.~Chen, X.~Tan, B.~Wang, and X.~Hu.
+\newblock {Reverse Attention for Salient Object Detection}.
+\newblock In {\em European Conference on Computer Vision}, pages 236--252,
+  2018.
+
+\end{thebibliography}
